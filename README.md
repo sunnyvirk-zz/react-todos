@@ -17,3 +17,9 @@ gulp
 
 node index
 ```
+
+Use the URL in your browser to navigation the app.
+
+```
+http://localhost:3000/
+```
