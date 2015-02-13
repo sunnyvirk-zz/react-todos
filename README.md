@@ -15,5 +15,5 @@ npm install
 
 gulp
 
-node .
+node index
 ```
