@@ -8,7 +8,7 @@ Todos app built using
 
 Install and run
 
-`code
+```code
 git clone https://github.com/sunnyvirk/react-todos.git
 
 npm install
@@ -16,4 +16,4 @@ npm install
 gulp
 
 node .
-`
+```
